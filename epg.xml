@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+  <channel id="Willow.Xtra.(WILLX).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Willow Xtra (WILLX)</display-name>
+  </channel>
+  <channel id="The.Weather.Channel.HDTV.(WEAHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Weather Channel HDTV (WEAHD)</display-name>
+  </channel>
+  <channel id="Comedy.Central.HDTV.(East).(CMDHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Comedy Central HDTV (East) (CMDHD)</display-name>
+  </channel>
+  <channel id="MLB.Network.HDTV.(DISH).(MLBHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">MLB Network HDTV (DISH) (MLBHD)</display-name>
+  </channel>
+  <channel id="The.Golf.Channel.HDTV.(GLFHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Golf Channel HDTV (GLFHD)</display-name>
+  </channel>
+  <channel id="The.Cooking.Channel.HDTV.(COOKHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Cooking Channel HDTV (COOKHD)</display-name>
+  </channel>
+  <channel id="Freeform.HDTV.(East).(FRFHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Freeform HDTV (East) (FRFHD)</display-name>
+  </channel>
+  <channel id="Mid.Atlantic.Sports.Network.2.HDTV.(MASN2HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Mid Atlantic Sports Network 2 HDTV (MASN2HD)</display-name>
+  </channel>
+  <channel id="Cartoon.Network.HDTV.(East).(TOONHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Cartoon Network HDTV (East) (TOONHD)</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HDTV.(TCMHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Turner Classic Movies HDTV (TCMHD)</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">E! Entertainment Television HDTV (East) (E! HD)</display-name>
+  </channel>
+  <channel id="Magnolia.Network.HDTV.(MAGNOLIA).us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s67375_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s67375_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Magnolia Network HDTV (MAGNOLIA)</display-name>
+  </channel>
+  <channel id="Oxygen.(East).(OXYGN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Oxygen (East) (OXYGN)</display-name>
+  </channel>
+  <channel id="Disney.Junior.HDTV.East.(DISJr).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Disney Junior HDTV East (DISJr)</display-name>
+  </channel>
+  <channel id="HBO.Zone.HDTV.(East).(HBOZHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO Zone HDTV (East) (HBOZHD)</display-name>
+  </channel>
+  <channel id="Boomerang.(BOOM).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Boomerang (BOOM)</display-name>
+  </channel>
+  <channel id="HBO.Latino.(East).(HBOLe).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO Latino (East) (HBOLe)</display-name>
+  </channel>
+  <channel id="Nickelodeon.HDTV.(East).(NICHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Nickelodeon HDTV (East) (NICHD)</display-name>
+  </channel>
+  <channel id="FX.Movie.Channel.HDTV.(FXMHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">FX Movie Channel HDTV (FXMHD)</display-name>
+  </channel>
+  <channel id="The.Disney.Channel.HDTV.(East).(DISHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Disney Channel HDTV (East) (DISHD)</display-name>
+  </channel>
+  <channel id="NBC.Sports.Chicago.HDTV.(NBCSCHHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports Chicago HDTV (NBCSCHHD)</display-name>
+  </channel>
+  <channel id="NatGeo.WILD.HDTV.(NGWILD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NatGeo WILD HDTV (NGWILD)</display-name>
+  </channel>
+  <channel id="ESPNU.HDTV.(ESPNUHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ESPNU HDTV (ESPNUHD)</display-name>
+  </channel>
+  <channel id="NBC.Sports.Boston.(NBCSB).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports Boston (NBCSB)</display-name>
+  </channel>
+  <channel id="MARQ.Marquee.Sports.Network.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113768_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113768_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">MARQ Marquee Sports Network</display-name>
+  </channel>
+  <channel id="NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports Washington HDTV 24/7 (NBCSWAHD)</display-name>
+  </channel>
+  <channel id="Bravo.HDTV.(East).(BRAVOD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Bravo HDTV (East) (BRAVOD)</display-name>
+  </channel>
+  <channel id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Home and Garden Television HDTV (East) (HGTVD)</display-name>
+  </channel>
+  <channel id="The.Oprah.Winfrey.Network.HDTV.(East).(OWNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Oprah Winfrey Network HDTV (East) (OWNHD)</display-name>
+  </channel>
+  <channel id="CMT.HDTV.(East).(CMTHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">CMT HDTV (East) (CMTHD)</display-name>
+  </channel>
+  <channel id="BBC.America.HDTV.(East).(BBC).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">BBC America HDTV (East) (BBC)</display-name>
+  </channel>
+  <channel id="Fox.Soccer.Plus.(FSPLUS).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Soccer Plus (FSPLUS)</display-name>
+  </channel>
+  <channel id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Lifetime Movies HDTV (East) (LIFEMOV)</display-name>
+  </channel>
+  <channel id="ESPN.HDTV.(Dish).(ESPNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ESPN HDTV (Dish) (ESPNHD)</display-name>
+  </channel>
+  <channel id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Black Entertainment Television HDTV (East) (BET-HD)</display-name>
+  </channel>
+  <channel id="Tennis.Channel.HDTV.(TNNSHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Tennis Channel HDTV (TNNSHD)</display-name>
+  </channel>
+  <channel id="TV.ONE.HDTV.(TVONEHD).us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s35513_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s35513_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TV ONE HDTV (TVONEHD)</display-name>
+  </channel>
+  <channel id="NBA.TV.HDTV.(NBA.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBA TV HDTV (NBA HD)</display-name>
+  </channel>
+  <channel id="Womens.Entertainment.HDTV.(East).(WE.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Womens Entertainment HDTV (East) (WE HD)</display-name>
+  </channel>
+  <channel id="Syfy.HDTV.(SYFYHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Syfy HDTV (SYFYHD)</display-name>
+  </channel>
+  <channel id="Fox.Sports.2.HDTV.(FS2HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Sports 2 HDTV (FS2HD)</display-name>
+  </channel>
+  <channel id="National.Geographic.Channel.HDTV.(NGCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">National Geographic Channel HDTV (NGCHD)</display-name>
+  </channel>
+  <channel id="Pop.(East).(POP).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Pop (East) (POP)</display-name>
+  </channel>
+  <channel id="TV.Land.(East).(TVLAND).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">TV Land (East) (TVLAND)</display-name>
+  </channel>
+  <channel id="Discovery.Family.Channel.HDTV.(DFCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Discovery Family Channel HDTV (DFCHD)</display-name>
+  </channel>
+  <channel id="Travel.Channel.HDTV.(East).(TRAVD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Travel Channel HDTV (East) (TRAVD)</display-name>
+  </channel>
+  <channel id="HBO.Family.HDTV.(East).(HBOFHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO Family HDTV (East) (HBOFHD)</display-name>
+  </channel>
+  <channel id="IFC.HDTV.(East).(IFCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">IFC HDTV (East) (IFCHD)</display-name>
+  </channel>
+  <channel id="Newsmax.(NEWSM).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Newsmax (NEWSM)</display-name>
+  </channel>
+  <channel id="The.Movie.Channel.HDTV.(East).(TMCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Movie Channel HDTV (East) (TMCHD)</display-name>
+  </channel>
+  <channel id="HBO.Signature.HDTV.(East).(HBOSHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO Signature HDTV (East) (HBOSHD)</display-name>
+  </channel>
+  <channel id="Disney.XD.(East).(DISXD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Disney XD (East) (DISXD)</display-name>
+  </channel>
+  <channel id="Crime.and.Investigation.Network.HDTV.(CI.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Crime and Investigation Network HDTV (CI HD)</display-name>
+  </channel>
+  <channel id="VICE.HDTV.(VICEHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">VICE HDTV (VICEHD)</display-name>
+  </channel>
+  <channel id="The.NFL.Network.HDTV.(NFLHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The NFL Network HDTV (NFLHD)</display-name>
+  </channel>
+  <channel id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Consumer News and Business Channel HDTV (CNBCH)</display-name>
+  </channel>
+  <channel id="VH1.HDTV.(East).(VH1HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">VH1 HDTV (East) (VH1HD)</display-name>
+  </channel>
+  <channel id="Turner.Network.Television.HDTV.(East).(TNTHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Turner Network Television HDTV (East) (TNTHD)</display-name>
+  </channel>
+  <channel id="ESPN2.HDTV.(Dish).(ESPN2HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ESPN2 HDTV (Dish) (ESPN2HD)</display-name>
+  </channel>
+  <channel id="Cable.News.Network.HDTV.(CNNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Cable News Network HDTV (CNNHD)</display-name>
+  </channel>
+  <channel id="A.and.E.Network.HDTV.(A.and.EHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">A and E Network HDTV (A and EHD)</display-name>
+  </channel>
+  <channel id="HBO.2.HDTV.(East).(HBO2HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO 2 HDTV (East) (HBO2HD)</display-name>
+  </channel>
+  <channel id="FX.HDTV.(East).(FX.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">FX HDTV (East) (FX HD)</display-name>
+  </channel>
+  <channel id="COZI.TV.(COZI).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">COZI TV (COZI)</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HDTV.(East).(HBOCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO Comedy HDTV (East) (HBOCHD)</display-name>
+  </channel>
+  <channel id="The.Discovery.Channel.HDTV.(East).(DSCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Discovery Channel HDTV (East) (DSCHD)</display-name>
+  </channel>
+  <channel id="HBO.HDTV.(East).(HBOHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HBO HDTV (East) (HBOHD)</display-name>
+  </channel>
+  <channel id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Hallmark Movies and Mysteries HDTV (HMMHD)</display-name>
+  </channel>
+  <channel id="ACC.Network.HDTV.(ACCN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ACC Network HDTV (ACCN)</display-name>
+  </channel>
+  <channel id="ReelzChannel.HDTV.(REELZH).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ReelzChannel HDTV (REELZH)</display-name>
+  </channel>
+  <channel id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Altitude Sports and Entertainment (Colorado) HDTV 24/7 (ALTHD)</display-name>
+  </channel>
+  <channel id="USA.Network.HDTV.(East).(USAHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">USA Network HDTV (East) (USAHD)</display-name>
+  </channel>
+  <channel id="SHOxBET(East).(SHOBET).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">SHOxBET(East) (SHOBET)</display-name>
+  </channel>
+  <channel id="beIN.Sports.HDTV.(English).(beIn).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">beIN Sports HDTV (English) (beIn)</display-name>
+  </channel>
+  <channel id="Nick.Jr..(NicJr).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Nick Jr. (NicJr)</display-name>
+  </channel>
+  <channel id="Investigation.Discovery.HDTV.(IDHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Investigation Discovery HDTV (IDHD)</display-name>
+  </channel>
+  <channel id="Cinemax.HDTV.(East).(MAXHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Cinemax HDTV (East) (MAXHD)</display-name>
+  </channel>
+  <channel id="SundanceTV.HDTV.(East).(SUNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">SundanceTV HDTV (East) (SUNHD)</display-name>
+  </channel>
+  <channel id="beIN.Sports.HDTV.(Spanish).(beINHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">beIN Sports HDTV (Spanish) (beINHD)</display-name>
+  </channel>
+  <channel id="Fox.News.Channel.HDTV.(East).(FNCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox News Channel HDTV (East) (FNCHD)</display-name>
+  </channel>
+  <channel id="Science.HDTV.(SCIHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Science HDTV (SCIHD)</display-name>
+  </channel>
+  <channel id="truTV.HDTV.(East).(TruTVD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">truTV HDTV (East) (TruTVD)</display-name>
+  </channel>
+  <channel id="History.HDTV.(East).(HISHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">History HDTV (East) (HISHD)</display-name>
+  </channel>
+  <channel id="msnbc.HDTV.(msnbcH).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">msnbc HDTV (msnbcH)</display-name>
+  </channel>
+  <channel id="Universal.Kids.HDTV.(SPROUTHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Universal Kids HDTV (SPROUTHD)</display-name>
+  </channel>
+  <channel id="WWE.Network.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90143_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90143_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">WWE Network</display-name>
+  </channel>
+  <channel id="NHL.Network.US.HDTV.(NHLHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NHL Network US HDTV (NHLHD)</display-name>
+  </channel>
+  <channel id="FYI.HDTV.(FYIHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">FYI HDTV (FYIHD)</display-name>
+  </channel>
+  <channel id="New.England.Sports.Network.HDTV.(NESNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">New England Sports Network HDTV (NESNHD)</display-name>
+  </channel>
+  <channel id="Showtime.HDTV.(East).(SHOHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Showtime HDTV (East) (SHOHD)</display-name>
+  </channel>
+  <channel id="YES.Alternate.HDTV.DirecTV.(YESHDA).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">YES Alternate HDTV DirecTV (YESHDA)</display-name>
+  </channel>
+  <channel id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)</display-name>
+  </channel>
+  <channel id="Big.Ten.Network.HDTV.(National).(BTNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Big Ten Network HDTV (National) (BTNHD)</display-name>
+  </channel>
+  <channel id="ESPN.News.HDTV.(ESNEWSHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ESPN News HDTV (ESNEWSHD)</display-name>
+  </channel>
+  <channel id="Food.Network.HDTV.(East).(FOODHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Food Network HDTV (East) (FOODHD)</display-name>
+  </channel>
+  <channel id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports Philadelphia HDTV (NBCSPAHD)</display-name>
+  </channel>
+  <channel id="NBC.Sports.Bay.Area.(CSNBA).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports Bay Area (CSNBA)</display-name>
+  </channel>
+  <channel id="Lifetime.Television.HDTV.(East).(LIFEH).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Lifetime Television HDTV (East) (LIFEH)</display-name>
+  </channel>
+  <channel id="HLN.HDTV.(HLNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">HLN HDTV (HLNHD)</display-name>
+  </channel>
+  <channel id="CW.Plus.Central.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18749_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18749_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">CW Plus Central</display-name>
+  </channel>
+  <channel id="TBS.Superstation.HDTV.(East).(TBSHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">TBS Superstation HDTV (East) (TBSHD)</display-name>
+  </channel>
+  <channel id="Discovery.Life.Channel.(DLIF).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Discovery Life Channel (DLIF)</display-name>
+  </channel>
+  <channel id="Yankees.Television.HDTV.(YESHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Yankees Television HDTV (YESHD)</display-name>
+  </channel>
+  <channel id="STARZ.HD.(East).(STZHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">STARZ HD (East) (STZHD)</display-name>
+  </channel>
+  <channel id="Motor.Trend.HDTV.(MTHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Motor Trend HDTV (MTHD)</display-name>
+  </channel>
+  <channel id="TeenNick.(East).(TNCK).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">TeenNick (East) (TNCK)</display-name>
+  </channel>
+  <channel id="SEC.Network.HDTV.(SECN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">SEC Network HDTV (SECN)</display-name>
+  </channel>
+  <channel id="NBC.Sports.California.HDTV.(NBCSCA).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NBC Sports California HDTV (NBCSCA)</display-name>
+  </channel>
+  <channel id="The.Learning.Channel.HDTV.(East).(TLCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Learning Channel HDTV (East) (TLCHD)</display-name>
+  </channel>
+  <channel id="AXSTV.HD.(AXSTV).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">AXSTV HD (AXSTV)</display-name>
+  </channel>
+  <channel id="ESPN.Deportes.HDTV.(EDEPHD).us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s71914_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s71914_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">ESPN Deportes HDTV (EDEPHD)</display-name>
+  </channel>
+  <channel id="NewsNation.HDTV.(NEWSNTN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">NewsNation HDTV (NEWSNTN)</display-name>
+  </channel>
+  <channel id="Fox.Sports.1.HDTV.(FS1HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Sports 1 HDTV (FS1HD)</display-name>
+  </channel>
+  <channel id="Willow.Cricket.HDTV.(WILLHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Willow Cricket HDTV (WILLHD)</display-name>
+  </channel>
+  <channel id="Spectrum.SportsNet.LA.(SNLA).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Spectrum SportsNet LA (SNLA)</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HDTV.(East).(HALLHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Hallmark Channel HDTV (East) (HALLHD)</display-name>
+  </channel>
+  <channel id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Cable Satellite Public Affairs Network (CSPAN)</display-name>
+  </channel>
+  <channel id="Paramount.Network.HDTV.(East).(PARHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Paramount Network HDTV (East) (PARHD)</display-name>
+  </channel>
+  <channel id="SportsNet.New.York.HDTV.(SNYHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">SportsNet New York HDTV (SNYHD)</display-name>
+  </channel>
+  <channel id="AMC.HDTV.(East).(AMCHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">AMC HDTV (East) (AMCHD)</display-name>
+  </channel>
+  <channel id="Nicktoons.Network.(East).(NICKTOON).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Nicktoons Network (East) (NICKTOON)</display-name>
+  </channel>
+  <channel id="Animal.Planet.HDTV.(East).(APHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Animal Planet HDTV (East) (APHD)</display-name>
+  </channel>
+  <channel id="Mav.TV.HDTV.(MavHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Mav TV HDTV (MavHD)</display-name>
+  </channel>
+  <channel id="Fox.Business.Network.HDTV.(FBNHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Business Network HDTV (FBNHD)</display-name>
+  </channel>
+  <channel id="Univision.Network.HDTV.(UNIHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Univision Network HDTV (UNIHD)</display-name>
+  </channel>
+  <channel id="Destination.America.HDTV.(DESTAMHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Destination America HDTV (DESTAMHD)</display-name>
+  </channel>
+  <channel id="GSN.(East).(GSN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">GSN (East) (GSN)</display-name>
+  </channel>
+  <channel id="ION.DirecTV.(ION.E).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">ION DirecTV (ION E)</display-name>
+  </channel>
+  <channel id="Telemundo.Network.(East).(TELMUN).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Telemundo Network (East) (TELMUN)</display-name>
+  </channel>
+  <channel id="FXX.HDTV.(East).(FXXHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">FXX HDTV (East) (FXXHD)</display-name>
+  </channel>
+  <channel id="CBS.Sports.Network.HDTV.(CBSSD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">CBS Sports Network HDTV (CBSSD)</display-name>
+  </channel>
+  <channel id="Galavision.HDTV.(East).(GALAH).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Galavision HDTV (East) (GALAH)</display-name>
+  </channel>
+  <channel id="Madison.Square.Garden.HDTV.(MSG.HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Madison Square Garden HDTV (MSG HD)</display-name>
+  </channel>
+  <channel id="Comet.TV.(COMET).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Comet TV (COMET)</display-name>
+  </channel>
+  <channel id="Fox.Weather.(WDCA4).Washington,.DC.us">
+    <display-name lang="en">Fox Weather (WDCA4) Washington, DC</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s93141_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CBS.(WCBS).New.York,.NY.us">
+    <display-name lang="en">CBS (WCBS) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="FOX.(WNYW).New.York,.NY.us">
+    <display-name lang="en">FOX (WNYW) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="ABC.(WABC).New.York,.NY.us">
+    <display-name lang="en">ABC (WABC) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="MNT.(WWOR).New.York,.NY.us">
+    <display-name lang="en">MNT (WWOR) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s51307_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="NBC.(WNBC).New.York,.NY.us">
+    <display-name lang="en">NBC (WNBC) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Grit.TV.us">
+    <display-name lang="en">Grit TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s89922_h9_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Me.TV.us">
+    <display-name lang="en">Me TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s70436_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CLEO.TV.us">
+    <display-name lang="en">CLEO TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s110289_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="The.Sports.Network.5.HDTV.(TSN5HD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Sports Network 5 HDTV (TSN5HD)</display-name>
+  </channel>
+  <channel id="The.Sports.Network.3.HDTV.(TSN3HD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Sports Network 3 HDTV (TSN3HD)</display-name>
+  </channel>
+  <channel id="Rogers.Sportsnet.West.HDTV.(SNWHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Rogers Sportsnet West HDTV (SNWHD)</display-name>
+  </channel>
+  <channel id="RDS.Info.(RDSINFO).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">RDS Info (RDSINFO)</display-name>
+  </channel>
+  <channel id="CBC.Toronto.HDTV.(CBLTHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">CBC Toronto HDTV (CBLTHD)</display-name>
+  </channel>
+  <channel id="Sportsnet.360.HDTV.(360HD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Sportsnet 360 HDTV (360HD)</display-name>
+  </channel>
+  <channel id="Rogers.Sportsnet.East.HDTV.(SNEHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Rogers Sportsnet East HDTV (SNEHD)</display-name>
+  </channel>
+  <channel id="Sportsnet.One.HDTV.(SN1HD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Sportsnet One HDTV (SN1HD)</display-name>
+  </channel>
+  <channel id="Rogers.SportsNet.World.HDTV.(SNWLH).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Rogers SportsNet World HDTV (SNWLH)</display-name>
+  </channel>
+  <channel id="CTV.Two.Barrie/Toronto/CKVR.HDTV.(CTV2T).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">CTV Two Barrie/Toronto/CKVR HDTV (CTV2T)</display-name>
+  </channel>
+  <channel id="The.Sports.Network.4.HDTV.(TSN4H).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Sports Network 4 HDTV (TSN4H)</display-name>
+  </channel>
+  <channel id="CTV.Toronto.HDTV.(CTVHT).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">CTV Toronto HDTV (CTVHT)</display-name>
+  </channel>
+  <channel id="The.Sports.Network.2.HDTV.(TSN2D).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Sports Network 2 HDTV (TSN2D)</display-name>
+  </channel>
+  <channel id="Global.Ontario.CIII.HDTV.(GLBHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Global Ontario CIII HDTV (GLBHD)</display-name>
+  </channel>
+  <channel id="The.Sports.Network.HDTV.(TSNHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">The Sports Network HDTV (TSNHD)</display-name>
+  </channel>
+  <channel id="Rogers.Sportsnet.Ontario.HDTV.(SNOHD).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Rogers Sportsnet Ontario HDTV (SNOHD)</display-name>
+  </channel>
+  <channel id="Citytv.Toronto.HDTV.(CTYTH).ca">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Citytv Toronto HDTV (CTYTH)</display-name>
+  </channel>
+</tv>
