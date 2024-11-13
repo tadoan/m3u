@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/tta-epg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/thetvapp-m3u/refs/heads/main/guide/epg.xml"
 #EXTINF:-1 group-title="Local", ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local", ABC EAST
