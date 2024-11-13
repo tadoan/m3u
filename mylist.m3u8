@@ -66,7 +66,7 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="Live TV", CNN
-http://fl2.moveonjoy.com/CNN/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live TV", CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="Live TV", COMEDY CENTRAL
@@ -122,7 +122,7 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 group-title="Sports", ESPN
-http://fl2.moveonjoy.com/ESPN/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
 #EXTINF:-1 group-title="Sports", ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="Sports", ESPN NEWS
@@ -135,12 +135,8 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local", FOX EAST
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX BUSSINESS NET
+#EXTINF:-1 group-title="Live TV", FOX BUSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX NEWS CHANNEL
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="Sports", FOX SOCCER PLUS [Not Working]
-http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8 
 #EXTINF:-1 group-title="Sports", FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="Sports", FOX SPORTS 2
@@ -199,8 +195,6 @@ http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="Live TV", LIFETIME MOVIE NET
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", LOGO
-http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 group-title="Live TV", LONGHORN NETWORK
 http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", LMAV TV
@@ -253,8 +247,6 @@ http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Live TV", NICKTOONS
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Live TV", TEEN NICK
-https://fl3.moveonjoy.com/Teen_Nick/index.m3u8 
 #EXTINF:-1 group-title="Live TV", OUTDOOR CHANNEL
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", OUTSIDE TV
@@ -267,8 +259,6 @@ http://fl2.moveonjoy.com/OWN/index.m3u8
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="Live TV", OUTER MAX
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Live TV", PAC 12 [STOPPED BROADCASTING]
-http://fl3.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 group-title="Live TV", PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", POP TV
@@ -353,8 +343,6 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="Live TV", TVG
 http://fl2.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 group-title="Sports", UFC
-http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="Live TV", USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="Live TV", VH1 
