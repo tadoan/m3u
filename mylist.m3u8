@@ -281,8 +281,8 @@ http://fl2.moveonjoy.com/QVC/index.m3u8
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="Live TV", REVOLT
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Sports", SEC NETWORK [Not Working]
-http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8 
+#EXTINF:-1 group-title="Sports", SEC NETWORK
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/385.m3u8
 #EXTINF:-1 group-title="Live TV", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Live TV", SHOWTIME 2
@@ -369,3 +369,4 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bosch 24/7" tvg-logo="https://Offthewall.store:443/images/53a410c4e40ed34c128dc421737b3d55.jpg" group-title="24/7",Bosch 24/7
 https://m3uproxyprod.media4u.top/proxy/aniel3000/aniel3000iscool/247-bosch
+
