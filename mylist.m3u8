@@ -45,13 +45,13 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="Live TV", DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISNEY JR
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="Live TV", DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Live TV", DISNEY XD
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="Live TV", DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Live TV", DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="Live TV", E!
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="Live TV", E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -61,159 +61,79 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="Sports", ESPN
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports", ESPN
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
-#EXTINF:-1 group-title="Sports", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Sports", ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Sports", ESPN NEWS
+#EXTINF:-1 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="Sports", ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Sports", ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Sports", ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Sports", ESPN NETWORK
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-name="The Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Live TV", FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOOD NETWORK
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Local", FOX EAST
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOXNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="Local", FOX EAST
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX BUSINESS NET
+#EXTINF:-1 tvg-id="Fox.Business.Network.HDTV.(FBNHD).us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="Live TV", FOX BUSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="Sports", FOX SPORTS 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Sports", FOX SPORTS 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Sports", FOX SPORTS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX SOUL
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="Live TV", FREE FORM
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Live TV", FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="Live TV", FX
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" group-title="Live TV", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="Live TV", FX MOVIE
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="Live TV", FX MOVIE
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Live TV", FXX
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="Live TV", FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Live TV", FYI
 http://fl5.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="Live TV", GAME SHOW NET
-http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", GET TV
-http://fl2.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="Sports", GOLF CHANNEL
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", GRIT TV
-http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", HALLMARK CHANNEL
+#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="Live TV", HALLMARK CHANNEL
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", HALLMARK DRAMA
+#EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-name="Hallmark Movies & Mysterie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="Live TV", HALLMARK DRAMA
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Live TV", HBO
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Live TV", HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Live TV", HBO 2
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="Live TV", HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Live TV", HBO COMEDY
+#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="Live TV", HBO COMEDY
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Live TV", HBO FAMILY
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="Live TV", HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Live TV", HBO ZONE
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="Live TV", HBO ZONE
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Live TV", HGTV
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="Live TV", HGTV
 http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="Live TV", HLN
+#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-name="Headline News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="Live TV", HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 group-title="Live TV", HSN
-http://fl2.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="Live TV", INSP
-http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="Live TV", ID
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="Live TV", ION TV
-http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", ION PLUS
-http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="Live TV", LIFETIME
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-name="Lifetime Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Live TV", LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Live TV", LIFETIME MOVIE NET
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-name="Lifetime Movies Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="Live TV", LIFETIME MOVIE NET
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", LONGHORN NETWORK
-http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", LMAV TV
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", ME TV
-http://fl2.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", MILITARY HISTORY
-http://fl3.moveonjoy.com/Military_History/index.m3u8
-#EXTINF:-1 group-title="Live TV", MLB NETWORK
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", MOTOR TREND
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="Live TV", MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Live TV", MSNBC
+#EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" group-title="Live TV", MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 group-title="Live TV", MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Live TV", MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Live TV", MTV CLASSIC
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Live TV", MTV LIVE
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Live TV", MTV U
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Live TV", NAT GEO
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Live TV", NAT GEO WILD
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Live TV", NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Live TV", NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Local", NBC EAST
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="Local", NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Sports", NBC SPORT NET
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-name="NBC Sports Boston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="Sports", NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", NEWS NATION
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="Live TV", NEWS Y
-http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 group-title="Sports", NFL NETWORK
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="Sports", NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports", NHL NETWORK
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" group-title="Live TV", NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Live TV", NICK JR
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Live TV", NICK JR
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Live TV", NICK MUSIC
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Live TV", NICKTOONS
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Live TV", OUTDOOR CHANNEL
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", OUTSIDE TV
-http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", OVATION
-http://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title="Live TV", OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="Live TV", OXYGEN
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="Live TV", OUTER MAX
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Live TV", PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Live TV", PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", POP TV
-http://fl3.moveonjoy.com/Pop_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", PURSUIT CHANNEL
-http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV", QVC
-http://fl2.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title="Live TV", REELZ
-http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="Live TV", REVOLT
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Sports", SEC NETWORK
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" group-title="Sports", SEC NETWORK
 https://848b3516657c-usatv.baby-beamup.club/public/m3u/385.m3u8
-#EXTINF:-1 group-title="Live TV", SHOWTIME
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="Live TV", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Live TV", SHOWTIME 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -225,13 +145,9 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Live TV", SHOWTIME WEST
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="Live TV", SMITHSONIAN CHANNEL
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV", STADIUM
-http://fl2.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 group-title="Live TV", STARZ
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="Live TV", STARZ
 http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="Live TV", STARZ COMEDY
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
@@ -247,54 +163,24 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 group-title="Live TV", STARZ WEST
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="Live TV", SUNDANCE
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="Live TV", SUNDANCE
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="Live TV", SYFY
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="Live TV", SYFY
 http://fl5.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="Live TV", TBS
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="Live TV", TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="Live TV", TCM
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="Live TV", TCM
 http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Sports", TENNIS CHANNEL
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", THE WEATHER CHANNEL
+#EXTINF:-1 tvg-id="The.Weather.Channel.HDTV.(WEAHD).us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live TV", THE WEATHER CHANNEL
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Live TV", TLC
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="Live TV", TLC
 http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 group-title="Live TV", TNT
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="Live TV", TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Live TV", TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="Live TV", TRAVEL CHANNEL
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV", TRU TV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Sports", TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Sports", TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Sports", TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Sports", TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Sports", TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Live TV", TV LAND
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="Live TV", TV ONE
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Live TV", TVG
-http://fl2.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 group-title="Live TV", USA NETWORK
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" group-title="Live TV", USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 group-title="Live TV", VH1 
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Live TV", VICELAND
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="Live TV", WE TV
-http://fl2.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", WGN
-http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="Live TV", YES NETWORK
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bosch 24/7" tvg-logo="https://Offthewall.store:443/images/53a410c4e40ed34c128dc421737b3d55.jpg" group-title="24/7",Bosch 24/7
 https://m3uproxyprod.media4u.top/proxy/aniel3000/aniel3000iscool/247-bosch
 
