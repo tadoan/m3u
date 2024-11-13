@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 group-title="Live TV", ABC EAST
+#EXTINF:-1 group-title="Local", ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Live TV", ABC EAST
+#EXTINF:-1 group-title="Local", ABC EAST
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
@@ -19,7 +19,7 @@ http://fl3.moveonjoy.com/Aspire/index.m3u8
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Live TV", BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="Live TV", BEIN SPORTS
+#EXTINF:-1 group-title="Sports", BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Live TV", BET EAST
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
@@ -31,7 +31,7 @@ http://fl2.moveonjoy.com/BET_HER/index.m3u8
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="Live TV", BET SOUL
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Live TV", BIG TEN NETWORK
+#EXTINF:-1 group-title="Sports", BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
@@ -47,9 +47,9 @@ http://fl3.moveonjoy.com/Buzzr/index.m3u8
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="Live TV", CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", CBS EAST
+#EXTINF:-1 group-title="Local", CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="Live TV", CBS SPORTS NETWORK
+#EXTINF:-1 group-title="Sports", CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", CINEMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
@@ -121,29 +121,29 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Live TV", EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN
+#EXTINF:-1 group-title="Sports", ESPN
 http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN 2
+#EXTINF:-1 group-title="Sports", ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN NEWS
+#EXTINF:-1 group-title="Sports", ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN U
+#EXTINF:-1 group-title="Sports", ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Live TV", ESPN NETWORK
+#EXTINF:-1 group-title="Sports", ESPN NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX EAST
+#EXTINF:-1 group-title="Local", FOX EAST
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Live TV", FOX BUSSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="Live TV", FOX NEWS CHANNEL
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX SOCCER PLUS [Not Working]
+#EXTINF:-1 group-title="Sports", FOX SOCCER PLUS [Not Working]
 http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8 
-#EXTINF:-1 group-title="Live TV", FOX SPORTS 1
+#EXTINF:-1 group-title="Sports", FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Live TV", FOX SPORTS 2
+#EXTINF:-1 group-title="Sports", FOX SPORTS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 group-title="Live TV", FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -163,7 +163,7 @@ http://fl5.moveonjoy.com/FYI/index.m3u8
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", GET TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", GOLF CHANNEL
+#EXTINF:-1 group-title="Sports", GOLF CHANNEL
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
@@ -233,17 +233,17 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Live TV", NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", NBC EAST
+#EXTINF:-1 group-title="Local", NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Live TV", NBC SPORT NET
+#EXTINF:-1 group-title="Sports", NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", NEWS NATION
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="Live TV", NEWS Y
 http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 group-title="Live TV", NFL NETWORK
+#EXTINF:-1 group-title="Sports", NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Live TV", NHL NETWORK
+#EXTINF:-1 group-title="Sports", NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV", NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
@@ -281,7 +281,7 @@ http://fl2.moveonjoy.com/QVC/index.m3u8
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="Live TV", REVOLT
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Live TV", SEC NETWORK [Not Working]
+#EXTINF:-1 group-title="Sports", SEC NETWORK [Not Working]
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8 
 #EXTINF:-1 group-title="Live TV", SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -325,7 +325,7 @@ http://fl5.moveonjoy.com/SYFY/index.m3u8
 http://fl2.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="Live TV", TCM
 http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Live TV", TENNIS CHANNEL
+#EXTINF:-1 group-title="Sports", TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Live TV", THE WEATHER CHANNEL
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
@@ -337,15 +337,15 @@ http://fl5.moveonjoy.com/TNT/index.m3u8
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="Live TV", TRU TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Live TV", TSN 1
+#EXTINF:-1 group-title="Sports", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Live TV", TSN 2
+#EXTINF:-1 group-title="Sports", TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Live TV", TSN 3
+#EXTINF:-1 group-title="Sports", TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Live TV", TSN 4
+#EXTINF:-1 group-title="Sports", TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Live TV", TSN 5
+#EXTINF:-1 group-title="Sports", TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="Live TV", TV LAND
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
@@ -353,7 +353,7 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="Live TV", TVG
 http://fl2.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 group-title="Live TV", UFC
+#EXTINF:-1 group-title="Sports", UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="Live TV", USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
@@ -365,7 +365,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="Live TV", WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="Live TV", WWE
-http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="Live TV", YES NETWORK
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="24/7", Bosch 24/7
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
